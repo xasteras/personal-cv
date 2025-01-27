@@ -116,7 +116,7 @@ body {
   background-color: #e9ecef;
 }
 
-/* Responsive Fixes */
+/* Responsive */
 @media (max-width: 768px) {
   .content-section {
     padding: 40px 20px;
